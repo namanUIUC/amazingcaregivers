@@ -59,11 +59,12 @@ const AboutUs = () => {
           {/* Right side - Content */}
           <div className="flex flex-col justify-center">
             <h2 className="text-4xl sm:text-5xl font-bold text-slate-900 leading-tight">
-              We Take Great Care<br />Of Your Issues.
+              We Take Great Care<br />
+              Of Your Issues.
             </h2>
             
             <p className="mt-6 text-slate-600">
-              We provide compassionate care services tailored to each individual's needs, 
+              We&apos;re committed to providing compassionate care services tailored to each individual&apos;s needs, 
               ensuring comfort, dignity, and the highest quality of life for your loved ones.
             </p>
 

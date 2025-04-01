@@ -60,7 +60,7 @@ const FAQSection = () => {
               Can we change caregivers if needed?
             </h3>
             <p className="mt-2 text-slate-600">
-              Absolutely. We prioritize the comfort and satisfaction of our clients. If for any reason you would prefer a different caregiver, simply contact us and we'll arrange a suitable replacement while ensuring a smooth transition of care.
+              Absolutely. We prioritize the comfort and satisfaction of our clients. If for any reason you would prefer a different caregiver, simply contact us and we&apos;ll arrange a suitable replacement while ensuring a smooth transition of care.
             </p>
           </div>
           {/* End Col */}
